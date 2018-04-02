@@ -16,8 +16,8 @@ Learn everything you need to about the subject of this `Pragmatic Studio` projec
 ## Topics
 ```
 1. Intro and Setup
-[ ] Video 1:14
-[ ] Setup
+[x] Video 1:14
+[x] Setup
 2. Game and App Design
 [ ] Video Game 2:31
 [ ] Video App Design 3:24
@@ -34,6 +34,22 @@ Learn everything you need to about the subject of this `Pragmatic Studio` projec
 [ ] Footnotes
 6. ETS To The Rescue
 [ ] Video 10:39
+[ ] Footnotes
+7. Phoenix Bingo Hall
+[ ] Video 5:14
+[ ] Footnotes
+8. Player Sessions
+[ ] Video 7:13
+[ ] Footnotes
+9. Spinning Up New Games
+[ ] Video 7:53
+[ ] Footnotes
+10. Talking On Channels
+[ ] Video: Part I 13:57
+[ ] Video: Part II 13:31
+[ ] Footnotes
+11. Who's Playing, Presently?
+[ ] Video 13:30
 [ ] Footnotes
 :
 ```
